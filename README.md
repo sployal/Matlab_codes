@@ -24,7 +24,7 @@ The following codes are included in this repository:
 To use these codes, you need to have MATLAB installed on your computer. You can download and install MATLAB from the [MathWorks website](https://www.mathworks.com/).
 
 ## Usage
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/your-repository.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/sployal/Matlab_codes`.
 2. Open MATLAB and navigate to the cloned repository folder.
 3. Explore the different codes available in the repository. Each code file includes comments and instructions on how to run it.
 4. Run the codes and experiment with different parameters to see the effects.
